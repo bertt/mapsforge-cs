@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapsforge", "mapsforge\mapsforge.csproj", "{596B2B08-16AC-4DDE-A30D-8A43ABB6684A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapsforge-tests", "mapsforge-tests\mapsforge-tests.csproj", "{2A3691EC-FF0E-4709-B290-7084C2E39549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596B2B08-16AC-4DDE-A30D-8A43ABB6684A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596B2B08-16AC-4DDE-A30D-8A43ABB6684A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596B2B08-16AC-4DDE-A30D-8A43ABB6684A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596B2B08-16AC-4DDE-A30D-8A43ABB6684A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3691EC-FF0E-4709-B290-7084C2E39549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A3691EC-FF0E-4709-B290-7084C2E39549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A3691EC-FF0E-4709-B290-7084C2E39549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A3691EC-FF0E-4709-B290-7084C2E39549}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4AA2C2-593A-4100-8A0B-D26A7A9F949E}
+	EndGlobalSection
+EndGlobal
