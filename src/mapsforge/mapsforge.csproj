@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Mapsforge</RootNamespace>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="tilebelt" Version="1.3.2" />
+  </ItemGroup>
 
 </Project>
